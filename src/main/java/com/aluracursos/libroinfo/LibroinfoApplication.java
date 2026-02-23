@@ -19,8 +19,5 @@ public class LibroinfoApplication implements CommandLineRunner {
         principal.muestraElMenu();
 
 
-
-
-
     }
 }
